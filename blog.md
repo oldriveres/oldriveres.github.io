@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 博客列表
+subtitle: 精选当前国际流行前端技术
 ---
 
 <div>

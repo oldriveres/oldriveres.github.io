@@ -1,5 +1,5 @@
 # Site settings
-title: 单身快乐
+title: 前端技术记录
 description: >
   生活点滴 前端技术
 
@@ -7,8 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://oldriveres.github.io/" # the base hostname & protocol for your site
 
 author:
-  fullname: David Lee
-  github: github
+  fullname: oldriveres
+  github: oldriveres
   email: 184362590@qq.com
 
 
