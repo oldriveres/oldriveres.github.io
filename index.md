@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/horse.gif' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/dongman.gif' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>繁华的都市中，这里是你温馨的港湾，放下一天的工作，沏上一杯茶淡茶，在这里可以驱走你一天的劳累........</p>
